@@ -1,4 +1,4 @@
-# cowin-telegram-bot
+# cowin-telegram-bot-python
 Simple python script to pull data from Cowin Public APIs and push messages to a telegram group if vaccine slots are available. <br/>
 
 a) Please create your own telegram bot to get your token and telegram group to get group id. <br/>
